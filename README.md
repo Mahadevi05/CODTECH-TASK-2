@@ -1,15 +1,27 @@
 NAME: MAHADEVI G
+
+
 COMPANY: CODTECH IT SOLUTION
+
+
 ID:CT08DS7290
+
+
 DOMAIN:WEB DEVELOPMENT
+
+
 DURATION:August to september 2024
+
+
 MENTOR:NEELA SANTHOSH KUMAR
+
 
 //**OVERVIEW OF PROJECT
 
 **PROJECT: WEATHER FORECASTING APPLICATION
 
 **OBJECTIVES:
+
 Develop an interactive web-based weather forecasting interface that allows users to select a city from a dropdown menu and view the current temperature for that city. This interface will serve as a user-friendly tool to quickly access temperature information for various locations
 
 **KEY ACTIVITIES:
