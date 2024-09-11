@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+body{
+    background-color: rgb(189, 184, 184);
+}
+.weather{
+    background-color: azure;
+    height: 500px;
+    width: 1000px;
+    margin-left: 9%;
+    border-radius: 30px;
+    box-shadow: rgb(165, 161, 161) ;
+}
+.title1 {
+    text-align: center;
+    font-weight: 400px;
+    font-size: 40px;
+    margin-top: 80px; 
+    padding-top: 10px;
+}
+
+.option{
+    background-color: rgb(215, 105, 15);
+    text-align: center;
+    font-size: 30px;
+    margin-left: 31%;
+    border-radius: 30px;
+    width: 500px;
+    height: 100px;
+    box-shadow: inset 4px 4px 15px rgb(69, 69, 139) , inset -4px -4px 15px rgb(69, 69, 139) ;
+    margin-top: 3%;
+}
+#heading{
+    text-align: center;
+    font-size: 30px;
+   
+}
+h1{
+    text-shadow: 2px 2px 5px rgb(183, 110, 110);
+}
+</style>
+</head>
+<body>
+<div class="weather">
+<div class="title1">
+<h1 class="title">weather Forecasting </h1>
+</div>
+<select class="option" name="" id="weather"onchange="show()" >
+<div id ="degree" style="color: red;">
+<option value=""></option>
+<option value="25 &#176 C">Trichy</option>
+<option value="35 &#176 C"> Madhurai</option>
+<option value="45 &#176 C">Salem</option>
+<option value="10 &#176 C">coimbatore</option>
+<option value="50 &#176 C">Dindukkal</option>
+<option value="45 &#176 C">Namakkal</option>
+<option value="80 &#176 C">Kallakurichi</option>
+<option value="20 &#176 C">cuddalore</option>
+</div>
+</select>
+<h3 id="heading"> </h3>
+<script>
+let a = document.getElementById('weather');
+function show(){
+    b = document.getElementById('heading');
+    b.textContent = a.value
+
+}
+</script>
+</div>
+    
+</body>
+</html>
