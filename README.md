@@ -16,9 +16,13 @@ DURATION:August to september 2024
 MENTOR:NEELA SANTHOSH KUMAR
 
 
+
+
 //**OVERVIEW OF PROJECT
 
+
 **PROJECT: WEATHER FORECASTING APPLICATION
+
 
 **OBJECTIVES:
 
@@ -35,8 +39,13 @@ Development Phase:
   JavaScript Development:
      Implement the JavaScript code to handle user interactions, such as updating the temperature display when a city is selected.
      Test the JavaScript functionality to ensure it works as intended
+
+
+
      
 **TECHNOLOGIES USED:
+   
+   
    Development:
       
    Text Editors/IDEs:
