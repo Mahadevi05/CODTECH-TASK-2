@@ -52,7 +52,7 @@ Development Phase:
 
   Visual Studio Code: A popular, versatile editor with extensions for HTML, CSS, and JavaScript.
 
-  HTML/CSS/JavaScript Frameworks:
+  HTML/CSS/JavaScript Frameworks.
 
   Bootstrap: A framework for developing responsive, mobile-first projects with pre-built components.
   Tailwind CSS: A utility-first CSS framework for creating custom designs without leaving your HTML.
